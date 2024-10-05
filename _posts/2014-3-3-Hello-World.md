@@ -3,8 +3,7 @@ layout: Jazmin Escobedo
 title: Portafolio
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Nuevas herramientas de IA: Varias empresas han lanzado modelos de IA más avanzados que prometen mejorar la eficiencia en diversos sectores, desde la atención al cliente hasta la creación de contenido.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
