@@ -3,8 +3,6 @@ layout: Jazmin Escobedo
 title: Portafolio de Bases de Datos
 ---
 
-# Portafolio de Bases de Datos
-
 
 
 Soy **Jazmin Escobedo**, especialista en el diseño, desarrollo y optimización de bases de datos. Tengo experiencia trabajando con sistemas de gestión de bases de datos relacionales y no relacionales, optimización de consultas SQL, y migración de datos en entornos empresariales.
