@@ -3,8 +3,6 @@ layout: Jazmin Escobedo
 title: Primer Portafolio
 ---
 
-## Nuevas Herramientas de IA
-
 En este portafolio, exploramos las **nuevas herramientas de Inteligencia Artificial (IA)** que están revolucionando varios sectores. **Empresas tecnológicas** han lanzado modelos de IA más avanzados que mejoran la eficiencia en diversas áreas, tales como:
 
 - Atención al cliente: Mejoras en chatbots y asistentes virtuales.
