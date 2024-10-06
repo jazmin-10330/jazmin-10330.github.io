@@ -3,8 +3,6 @@ layout: Jazmin Escobedo
 title: Primer Portafolio
 ---
 
-# Primer Portafolio
-
 ## Nuevas Herramientas de IA
 
 En este portafolio, exploramos las **nuevas herramientas de Inteligencia Artificial (IA)** que están revolucionando varios sectores. **Empresas tecnológicas** han lanzado modelos de IA más avanzados que mejoran la eficiencia en diversas áreas, tales como:
@@ -13,12 +11,9 @@ En este portafolio, exploramos las **nuevas herramientas de Inteligencia Artific
 - Creación de contenido: Herramientas que generan textos, imágenes y videos de manera automatizada.
 - Análisis de datos: IA que procesa grandes volúmenes de datos para ofrecer soluciones más rápidas y precisas.
 
-### Imagen de ejemplo
 
-Aquí tienes un ejemplo de cómo se ve la configuración del proyecto:
 
-![Config](https://miweb.com/images/config.png)
-
+![_config.yml]({{ site.baseurl }}/images/config.png)
 ---
 
 ## Proyectos Recientes
