@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jazmin Escobedo
+title: 
 permalink: /about/
 ---
 
