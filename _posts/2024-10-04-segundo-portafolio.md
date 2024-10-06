@@ -3,9 +3,9 @@ layout: Jazmin Escobedo
 title: Segundo Portafolio
 ---
 
-# Portafolio Profesional
 
-## Sobre Mí
+
+Sobre Mí
 
 ¡Hola! Soy **Jazmin Escobedo**, desarrolladora con experiencia en **automación de sistemas** y **análisis de datos**. Mi enfoque está en crear soluciones innovadoras utilizando las últimas tecnologías de **Inteligencia Artificial** y **ciencia de datos**.
 
@@ -35,7 +35,7 @@ Este proyecto consiste en un sistema de monitoreo en **tiempo real** para servid
 - **PuTTY** para la conexión remota y ejecución de estos scripts en diferentes servidores.
 - Notificaciones automáticas a través de **Telegram** cuando se detecta un uso anormal de recursos.
 
-![Monitoreo](https://miweb.com/images/monitoring.png)
+
 
 ---
 
